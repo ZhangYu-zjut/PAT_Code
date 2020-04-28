@@ -1,0 +1,5 @@
+﻿  wd44.cpp
+d:\c-test\wd44\wd44\wd44.cpp(26): warning C4101: “j”: 未引用的局部变量
+d:\c-test\wd44\wd44\wd44.cpp(26): warning C4101: “n”: 未引用的局部变量
+  wd44.vcxproj -> D:\C-test\wd44\Debug\wd44.exe
+  wd44.vcxproj -> D:\C-test\wd44\Debug\wd44.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  wd58.cpp
+d:\c-test\wd58\wd58\wd58.cpp(79): warning C4101: “j”: 未引用的局部变量
+  wd58.vcxproj -> D:\C-test\wd58\Debug\wd58.exe
+  wd58.vcxproj -> D:\C-test\wd58\Debug\wd58.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  wd48.cpp
+d:\c-test\wd48\wd48\wd48.cpp(14): warning C4101: “j”: 未引用的局部变量
+  wd48.vcxproj -> D:\C-test\wd48\Debug\wd48.exe
+  wd48.vcxproj -> D:\C-test\wd48\Debug\wd48.pdb (Full PDB)

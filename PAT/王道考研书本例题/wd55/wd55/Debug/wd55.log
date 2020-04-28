@@ -1,0 +1,6 @@
+﻿  wd55.cpp
+d:\c-test\wd55\wd55\wd55.cpp(11): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\c-test\wd55\wd55\wd55.cpp(11): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+d:\c-test\wd55\wd55\wd55.cpp(88): warning C4101: “j”: 未引用的局部变量
+  wd55.vcxproj -> D:\C-test\wd55\Debug\wd55.exe
+  wd55.vcxproj -> D:\C-test\wd55\Debug\wd55.pdb (Full PDB)

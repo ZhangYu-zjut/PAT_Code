@@ -1,0 +1,6 @@
+﻿  wd64.cpp
+d:\c-test\wd64\wd64\wd64.cpp(12): warning C4101: “str1”: 未引用的局部变量
+d:\c-test\wd64\wd64\wd64.cpp(13): warning C4101: “str2”: 未引用的局部变量
+d:\c-test\wd64\wd64\wd64.cpp(11): warning C4101: “n”: 未引用的局部变量
+  wd64.vcxproj -> D:\C-test\wd64\Debug\wd64.exe
+  wd64.vcxproj -> D:\C-test\wd64\Debug\wd64.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  wd39.cpp
+d:\c-test\wd39\wd39\wd39.cpp(23): warning C4101: “j”: 未引用的局部变量
+  wd39.vcxproj -> D:\C-test\wd39\Debug\wd39.exe
+  wd39.vcxproj -> D:\C-test\wd39\Debug\wd39.pdb (Full PDB)

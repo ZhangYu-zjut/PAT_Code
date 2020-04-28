@@ -1,0 +1,4 @@
+﻿  WD27.cpp
+d:\c-test\wd27\wd27\wd27.cpp(30): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+d:\c-test\wd27\wd27\wd27.cpp(29): warning C4101: “j”: 未引用的局部变量
+LINK : fatal error LNK1168: 无法打开 D:\C-test\WD27\Debug\WD27.exe 进行写入
